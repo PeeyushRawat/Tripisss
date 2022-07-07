@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405769425030",
+    "project_id": "tripisss-891bc",
+    "storage_bucket": "tripisss-891bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405769425030:android:d2192b724aa714041e8107",
+        "android_client_info": {
+          "package_name": "com.example.tripisss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405769425030-2krlpeilteu2opubv70ipi7utjjfd8k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xVkzwI78My87QwoRbFu9duqWfEXdbmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405769425030-2krlpeilteu2opubv70ipi7utjjfd8k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
