@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-pngs-26:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tripisss.app-merged_res-31:/layout_activity_expense.xml.flat",
+        "source": "com.example.tripisss.app-main-33:/layout/activity_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_group_list.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable_arrow.jpg.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\drawable\\arrow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable_add.png.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\font_bungee_shade.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\font\\bungee_shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable_ok.png.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\drawable\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_new_trip.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_new_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_expense.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_add_users.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_add_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-merged_res-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\pa1sh\\.gradle\\daemon\\7.3.3\\com.example.tripisss.app-main-33:\\layout\\activity_register.xml"
+    }
+]
